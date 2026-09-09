@@ -1,0 +1,17 @@
+{
+  "name": "genpark-contract-net-protocol-cnp-task-clearing-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent FIPA Contract Net Protocol (CNP) Multi-Round Task Clearing & Bid Evaluation Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "multi-agent-systems",
+    "contract-net",
+    "cnp",
+    "task-allocation"
+  ]
+}
